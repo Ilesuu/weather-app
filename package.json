@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "An app that can view weather at different locations using geolocation and weather api.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilesuu/weather-app.git"
+  },
+  "author": "Ilkka Suutarinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilesuu/weather-app/issues"
+  },
+  "homepage": "https://github.com/Ilesuu/weather-app#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "^0.0.1-security",
+    "yargs": "^16.2.0"
+  }
+}
